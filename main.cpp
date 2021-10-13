@@ -8,5 +8,6 @@ int casa=0;
 segundos=lustro*365*24*60*60;
 cout<<"en un lustro hay"<<segundos<<"segundos";
 casa=casa+1;
+//55565
 
 }
